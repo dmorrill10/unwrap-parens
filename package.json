@@ -1,10 +1,9 @@
 {
   "name": "unwrap-parens",
   "main": "./lib/unwrap-parens",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Expands a parenthetical expression (containing '()', '[]', or '{}' delimited clauses) into a more readable (for me anyway) vertical representation.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-text-editor": "unwrap-parens:unwrap"
   },
@@ -19,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
