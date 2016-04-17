@@ -1,0 +1,11 @@
+{
+  ".platform-linux atom-text-editor": {
+    "ctrl-shift-u": "unwrap-parens:unwrap"
+  },
+  ".platform-win32 atom-text-editor": {
+    "ctrl-shift-u": "unwrap-parens:unwrap"
+  },
+  ".platform-darwin atom-text-editor": {
+    "cmd-shift-u": "unwrap-parens:unwrap"
+  }
+}

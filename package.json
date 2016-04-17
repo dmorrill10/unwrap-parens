@@ -1,0 +1,24 @@
+{
+  "name": "unwrap-parens",
+  "main": "./lib/unwrap-parens",
+  "version": "0.0.0",
+  "description": "Expands a parenthetical expression (containing '()', '[]', or '{}' delimited clauses) into a more readable (for me anyway) vertical representation.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-text-editor": "unwrap-parens:unwrap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmorrill10/unwrap-parens.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmorrill10/unwrap-parens/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
